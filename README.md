@@ -1,8 +1,29 @@
-# BrainLite · 技术支持
+<p align="center">
+  <img src="assets/brainlite-icon.png" width="112" height="112" alt="BrainLite 应用图标">
+</p>
 
-[English](#english)
+<h1 align="center">BrainLite: Focus Training</h1>
 
-BrainLite: Focus Training 是一款 iPhone 训练应用。你可以选择一项注意力或记忆练习，完成后查看结果，也可以回看训练记录。
+<p align="center">用一局小游戏，练习专注、记忆和有条理地思考。</p>
+<p align="center"><a href="#认识-brainlite">认识 BrainLite</a> · <a href="#联系我们">技术支持</a> · <a href="#english">English</a></p>
+
+## 认识 BrainLite
+
+BrainLite 是 MomentIdea 开发的 iPhone 训练应用。打开 App，挑一个想玩的项目，先看规则，再做一局。不同项目的玩法各有侧重，有的要快速找到下一项，有的要先记住一串信息，还有的需要多想一步再动手。
+
+<p align="center">
+  <img src="assets/schulte.png" width="108" height="108" alt="舒尔特方格训练插图">
+  <img src="assets/light-sequence.png" width="108" height="108" alt="光点序列训练插图">
+  <img src="assets/water-sort.png" width="108" height="108" alt="左倾右倒训练插图">
+</p>
+
+| 训练举例 | 实际怎么玩 |
+| --- | --- |
+| **舒尔特方格** | 在打乱的数字里找到 1，再按顺序点下去，看看能多快找完。 |
+| **光点序列** | 先看目标光点在哪些位置、以什么顺序亮起，等展示结束再按原顺序点出来。 |
+| **左倾右倒** | 看清每支试管里的颜色，借用空着的位置倒来倒去，最后让同色的水装在一起。 |
+
+一局结束后可以查看结果，之后也能在训练记录里回看。可以重复玩熟悉的项目，看看自己在相同玩法里的表现，也可以换一种训练。想给练习留个固定时间，可以到「我的 → 训练设置」里设置提醒。
 
 ## 联系我们
 
@@ -19,7 +40,7 @@ BrainLite: Focus Training 是一款 iPhone 训练应用。你可以选择一项�
 
 ## English
 
-**BrainLite: Focus Training** is an iPhone app with short attention and memory exercises. You can see your results after each exercise and review your practice history.
+**BrainLite: Focus Training** is an iPhone app for short, game-like practice sessions. Find numbers in order in **Number Hunt**, remember the order of flashing squares in **Light Sequence**, or plan ahead to sort water by color in **Color Sort**. Pick an exercise, play a round, then check the result and revisit earlier rounds in your practice history.
 
 - **Email** · [momentidea.support@gmail.com](mailto:momentidea.support@gmail.com?subject=%5BBrainLite%5D%20App%20feedback). For help with sign-in, practice history, membership, or other issues, email us even if you can't sign in.
 - **In-app feedback** · After signing in, open **Me › Help & Feedback**, select a topic, and submit your message.
