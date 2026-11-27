@@ -9,21 +9,22 @@
 
 ## 认识 BrainLite
 
-BrainLite 是 MomentIdea 开发的 iPhone 训练应用。打开 App，挑一个想玩的项目，先看规则，再做一局。不同项目的玩法各有侧重，有的要快速找到下一项，有的要先记住一串信息，还有的需要多想一步再动手。
+BrainLite 是 MomentIdea 开发的 iPhone 训练应用，收录了涉及注意力、记忆、反应和规划的小游戏。每局结束后可以查看结果，也能在训练记录里回看。想养成固定的练习习惯，可以在「我的 → 训练设置」里设置提醒。
 
-<p align="center">
-  <img src="assets/schulte.png" width="108" height="108" alt="舒尔特方格训练插图">
-  <img src="assets/light-sequence.png" width="108" height="108" alt="光点序列训练插图">
-  <img src="assets/water-sort.png" width="108" height="108" alt="左倾右倒训练插图">
-</p>
+### 游戏一览
 
-| 训练举例 | 实际怎么玩 |
-| --- | --- |
-| **舒尔特方格** | 在打乱的数字里找到 1，再按顺序点下去，看看能多快找完。 |
-| **光点序列** | 先看目标光点在哪些位置、以什么顺序亮起，等展示结束再按原顺序点出来。 |
-| **左倾右倒** | 看清每支试管里的颜色，借用空着的位置倒来倒去，最后让同色的水装在一起。 |
-
-一局结束后可以查看结果，之后也能在训练记录里回看。可以重复玩熟悉的项目，看看自己在相同玩法里的表现，也可以换一种训练。想给练习留个固定时间，可以到「我的 → 训练设置」里设置提醒。
+<table>
+  <tr>
+    <td align="center"><img src="assets/schulte.png" width="96" height="96" alt=""><br><strong>舒尔特方格</strong></td>
+    <td align="center"><img src="assets/light-sequence.png" width="96" height="96" alt=""><br><strong>光点序列</strong></td>
+    <td align="center"><img src="assets/water-sort.png" width="96" height="96" alt=""><br><strong>左倾右倒</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/rewind.png" width="96" height="96" alt=""><br><strong>记忆倒带</strong></td>
+    <td align="center"><img src="assets/twin-pair.png" width="96" height="96" alt=""><br><strong>鸳鸯配对</strong></td>
+    <td align="center"><img src="assets/dont-fool.png" width="96" height="96" alt=""><br><strong>不要上当！</strong></td>
+  </tr>
+</table>
 
 ## 联系我们
 
@@ -40,7 +41,7 @@ BrainLite 是 MomentIdea 开发的 iPhone 训练应用。打开 App，挑一个�
 
 ## English
 
-**BrainLite: Focus Training** is an iPhone app for short, game-like practice sessions. Find numbers in order in **Number Hunt**, remember the order of flashing squares in **Light Sequence**, or plan ahead to sort water by color in **Color Sort**. Pick an exercise, play a round, then check the result and revisit earlier rounds in your practice history.
+**BrainLite: Focus Training** is an iPhone app with short games for attention, memory, reaction, and planning. Games include **Number Hunt**, **Light Sequence**, **Color Sort**, **Memory Rewind**, **Perfect Pairs**, and **Don’t Fall for It!**. View your results after each round and revisit them in your practice history.
 
 - **Email** · [momentidea.support@gmail.com](mailto:momentidea.support@gmail.com?subject=%5BBrainLite%5D%20App%20feedback). For help with sign-in, practice history, membership, or other issues, email us even if you can't sign in.
 - **In-app feedback** · After signing in, open **Me › Help & Feedback**, select a topic, and submit your message.
