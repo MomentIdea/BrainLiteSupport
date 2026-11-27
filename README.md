@@ -1,15 +1,29 @@
-# BrainLite Support
+# BrainLite · 技术支持
 
-App Store Connect 技术支持页。纯静态 HTML，无构建步骤。英文首页在 `index.html`，简体中文页在 `zh/index.html`。两页都显示已提供的公开邮箱 `momentidea.support@gmail.com`。 邮件入口会预填带有 `[BrainLite]` 前缀的主题，以及对应语言的反馈模板。工作室邮箱可按该主题前缀筛选 BrainLite 来信。
+[English](#english)
 
-## 本地预览
+BrainLite: Focus Training 是一款 iPhone 训练应用。你可以选择一项注意力或记忆练习，完成后查看结果，也可以回看训练记录。
 
-在仓库目录运行 `python3 -m http.server 8000`，打开 `http://localhost:8000/`。按 Ctrl+C 停止。
+## 联系我们
 
-## 发布后填写 App Store Connect
+- **发邮件** · [momentidea.support@gmail.com](mailto:momentidea.support@gmail.com?subject=%5BBrainLite%5D%20%E5%BA%94%E7%94%A8%E5%8F%8D%E9%A6%88)。遇到登录、训练记录、会员或其他使用问题，都可以写信。无法登录 App 时也可以用这个邮箱。
+- **在 App 内反馈** · 登录 BrainLite 后，打开「我的 → 帮助与反馈」，选择问题类型，填写说明并提交。
 
-如果用 GitHub Pages，可以在网页文件提交到 `main` 后，在仓库的 Settings → Pages 选择 Deploy from a branch，来源选 `main` 和 `/(root)`，再保存。Pages 是否可用取决于仓库设置和 GitHub 计划。也可以把这些文件部署到已有的 HTTPS 静态站。
+## 邮件怎么写
 
-以部署后台给出的最终地址为准。提交审核前，用未登录的浏览器访问英文和中文网址，确认页面可读、邮箱正确，并从另一个邮箱发一封测试邮件确认能收到。App Store Connect 的 Support URL 填公开页面的完整 HTTPS 地址。隐私政策 URL 在 App Store Connect 单独维护。
+这个邮箱由 MomentIdea 工作室共用。请以 **`[BrainLite]`** 开头，再写一句具体的问题，例如 `[BrainLite] 换手机后找不到训练记录`。
 
-苹果要求支持网址提供真实且有效的联系信息。当地法规要求同时披露其他联系信息时，使用实际的公开业务信息补充。[Apple Support URL 字段说明](https://developer.apple.com/help/app-store-connect/reference/app-information/platform-version-information/)
+正文写清楚你想做什么、点了哪里、实际发生了什么。如果方便，请附上 App 版本、iPhone 型号、iOS 版本和截图。App 版本可在「我的」页面底部查看。功能建议可以直接写你希望增加或改进什么。请勿发送密码、验证码或银行卡信息。
+
+---
+
+## English
+
+**BrainLite: Focus Training** is an iPhone app with short attention and memory exercises. You can see your results after each exercise and review your practice history.
+
+- **Email** · [momentidea.support@gmail.com](mailto:momentidea.support@gmail.com?subject=%5BBrainLite%5D%20App%20feedback). For help with sign-in, practice history, membership, or other issues, email us even if you can't sign in.
+- **In-app feedback** · After signing in, open **Me › Help & Feedback**, select a topic, and submit your message.
+
+This inbox is shared across MomentIdea apps. Start your subject with **`[BrainLite]`** and add a short description, such as `[BrainLite] Practice history missing after switching phones`.
+
+Tell us what you were trying to do, the steps you took, and what happened. If available, include your app version, iPhone model, iOS version, and a screenshot. The app version is under **Me › About BrainLite**. For a feature request, tell us what you'd like to do in the app. Please leave out passwords, verification codes, and payment card details.
